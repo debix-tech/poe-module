@@ -18,7 +18,7 @@ DEBIX SBC PoE Module is compatible with DEBIX Model A, DEBIX Model B, DEBIX Mode
 
 ## Specification
 | Specification   |                              |
-|-----------------|------------------------------|
+|:-----------------|------------------------------|
 | LED             | 1 x PoE Power Input LED, 1 x 5V Power Output LED   |
 | Support Protocol| IEEE 802.3at-2009 PoE        |
 | Power Input     | DC 50V-57V, Class 4 device   |
